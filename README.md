@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Currently building AI and Machine Learning applications with a focus on solving real-world problems<br><br>Working on Full-Stack Development and Agentic AI using React, Next.js, FastAPI, and PostgreSQL<br><br>Department Rank 1 in Metallurgical & Materials Engineering at IIT Patna<br><br>Interested in Open Source, Artificial Intelligence, Backend Engineering, and System Design<br><br>Currently learning Machine Learning, Deep Learning, MLOps, and Advanced Data Structures & Algorithms<br><br>Ask me about Python, C++, React, FastAPI, AI, Machine Learning, and Competitive Programming<br><br>Always building, always learning, and always looking for the next challenging problem to solve.
 
 
